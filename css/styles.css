@@ -1,19 +1,19 @@
 /* ===== COMMON STYLES ===== */
-ul, 
-ol {
+.ul, 
+.ol {
     list-style-type: none;
 }
 
-a {
+.a {
     text-decoration: none;
 }
 
-button {
+.button {
     cursor: pointer;
     color: #4D5AE5;
 }
 
-body {
+.body {
     font-family: "Roboto", sans-serif;
     color:#434455;
     background-color: #ffffff;
@@ -102,10 +102,6 @@ top: 72px;
 }
 
 .button-styles {
-    border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
