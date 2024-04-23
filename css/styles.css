@@ -152,6 +152,10 @@ color: #434455;
 
 /* ====== Review ===== */
 
+.review-sections-styles {
+    background-color: #F4F4FD; 
+}
+
 .review-styles {
     background-color: #F4F4FD;
     font-family: "Roboto", sans-serif;
