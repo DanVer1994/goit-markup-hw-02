@@ -78,6 +78,21 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+.address-styles-items {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.address-styles-items:hover {
+    color: #404bbf;
+}
+
+.address-styles-items:focus {
+    color: #404bbf;
+}
+
 /* ===== HERO STYLES ===== */
 
 .main-text {
@@ -87,6 +102,7 @@ color: #434455;
     line-height: 1.07;
     text-align: center; 
     letter-spacing: 0.02em;
+    color: #FFFFFF; 
     background-color: #4D5AE5; 
 }
 
@@ -101,6 +117,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+background-color: #4D5AE5; 
 }
 
 .button-styles:hover {
@@ -185,6 +202,24 @@ text-transform: capitalize;
 color: #2e2f42;
 }
 
+.portfolio-titles {
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.portfolio-paragraph-styles {
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
 
 /* ===== footer ===== */
 .footer-styles {
@@ -195,7 +230,7 @@ color: #2e2f42;
     font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
